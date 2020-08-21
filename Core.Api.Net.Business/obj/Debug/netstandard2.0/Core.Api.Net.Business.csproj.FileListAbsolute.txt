@@ -1,0 +1,48 @@
+C:\Work Project\GitHub\React Workshop\Core.Api.Net\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.deps.json
+C:\Work Project\GitHub\React Workshop\Core.Api.Net\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\Core.Api.Net\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\React Workshop\Core.Api.Net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.csprojAssemblyReference.cache
+C:\Work Project\GitHub\React Workshop\Core.Api.Net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfoInputs.cache
+C:\Work Project\GitHub\React Workshop\Core.Api.Net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfo.cs
+C:\Work Project\GitHub\React Workshop\Core.Api.Net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\Core.Api.Net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\React Workshop\RBAC.NET.CORE\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.deps.json
+C:\Work Project\GitHub\React Workshop\RBAC.NET.CORE\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\RBAC.NET.CORE\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\React Workshop\RBAC.NET.CORE\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.csprojAssemblyReference.cache
+C:\Work Project\GitHub\React Workshop\RBAC.NET.CORE\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfoInputs.cache
+C:\Work Project\GitHub\React Workshop\RBAC.NET.CORE\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfo.cs
+C:\Work Project\GitHub\React Workshop\RBAC.NET.CORE\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\RBAC.NET.CORE\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\React Workshop\rbact.core.net\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.deps.json
+C:\Work Project\GitHub\React Workshop\rbact.core.net\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\rbact.core.net\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\React Workshop\rbact.core.net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.csprojAssemblyReference.cache
+C:\Work Project\GitHub\React Workshop\rbact.core.net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfoInputs.cache
+C:\Work Project\GitHub\React Workshop\rbact.core.net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfo.cs
+C:\Work Project\GitHub\React Workshop\rbact.core.net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\rbact.core.net\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\React Workshop\rbac project\net.core.rbac\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.deps.json
+C:\Work Project\GitHub\React Workshop\rbac project\net.core.rbac\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\rbac project\net.core.rbac\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\React Workshop\rbac project\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.csprojAssemblyReference.cache
+C:\Work Project\GitHub\React Workshop\rbac project\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfoInputs.cache
+C:\Work Project\GitHub\React Workshop\rbac project\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfo.cs
+C:\Work Project\GitHub\React Workshop\rbac project\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\rbac project\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\React Workshop\rbac\net.core.rbac\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.deps.json
+C:\Work Project\GitHub\React Workshop\rbac\net.core.rbac\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\rbac\net.core.rbac\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\React Workshop\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.csprojAssemblyReference.cache
+C:\Work Project\GitHub\React Workshop\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfoInputs.cache
+C:\Work Project\GitHub\React Workshop\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfo.cs
+C:\Work Project\GitHub\React Workshop\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\React Workshop\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\Products\rbac\net.core.rbac\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.deps.json
+C:\Work Project\GitHub\Products\rbac\net.core.rbac\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\Products\rbac\net.core.rbac\Core.Api.Net.Business\bin\Debug\netstandard2.0\Core.Api.Net.Business.pdb
+C:\Work Project\GitHub\Products\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.csprojAssemblyReference.cache
+C:\Work Project\GitHub\Products\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfoInputs.cache
+C:\Work Project\GitHub\Products\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.AssemblyInfo.cs
+C:\Work Project\GitHub\Products\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.dll
+C:\Work Project\GitHub\Products\rbac\net.core.rbac\Core.Api.Net.Business\obj\Debug\netstandard2.0\Core.Api.Net.Business.pdb
