@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net\\Core.Api.Net.csproj": {}
+    "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net\\Core.Api.Net.csproj": {}
   },
   "projects": {
-    "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj": {
+    "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj",
+        "projectUniqueName": "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj",
         "projectName": "Core.Api.Net.Business",
-        "projectPath": "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj",
+        "projectPath": "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj",
         "packagesPath": "C:\\Users\\niraw\\.nuget\\packages\\",
-        "outputPath": "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net.Business\\obj\\",
+        "outputPath": "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net\\Core.Api.Net.csproj": {
+    "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net\\Core.Api.Net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net\\Core.Api.Net.csproj",
+        "projectUniqueName": "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net\\Core.Api.Net.csproj",
         "projectName": "Core.Api.Net",
-        "projectPath": "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net\\Core.Api.Net.csproj",
+        "projectPath": "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net\\Core.Api.Net.csproj",
         "packagesPath": "C:\\Users\\niraw\\.nuget\\packages\\",
-        "outputPath": "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net\\obj\\",
+        "outputPath": "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -124,8 +124,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj": {
-                "projectPath": "C:\\Work Project\\GitHub\\Products\\rbac\\net.core.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj"
+              "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj": {
+                "projectPath": "C:\\Work Project\\GitHub\\Products\\rbac\\core.api.rbac\\Core.Api.Net.Business\\Core.Api.Net.Business.csproj"
               }
             }
           }
