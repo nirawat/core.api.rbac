@@ -30,6 +30,6 @@ jobs:
       uses: azure/webapps-deploy@v2
       with:
         app-name: 'api-rbac'
-        slot-name: 'production'
+        slot-name: 'api-rbac'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_dc94b1d7ba31473bb6a27308bea47ff5 }}
         package: ${{env.DOTNET_ROOT}}/core.api.rbac
